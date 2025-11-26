@@ -184,6 +184,5 @@ Use an ArrayList to store objects of type Employee. The program should perform t
         }
         average = totalSalaries / employees.size();
         System.out.println(average);
-
     }
 }
